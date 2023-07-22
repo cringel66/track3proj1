@@ -1,6 +1,8 @@
 ---
 title: Route 66 Will Be 100 Years Old Soon, What sites are you going to see?
 ---
+Please view Word Doc in my git hub for the correct looking format - Route 66 Blog Post Document.doc
+
 NOTE: This blog was created as a part of a ‘Data Engineering’ course that I’m completing at work.
 
 Route 66 will celebrate 100 years in 2026 and it served a major role in the United States westward migration during the 20th century.  Coined “The Mother Road” in The Grapes of Wrath by John Steinbeck, the highway passed through 8 states starting in Chicago Illinois and ending near the Santa Monica Pier in Los Angeles, California.  Although the original Route 66 was decommissioned in 1985, as interstates were built pulling traffic from the Route, there is continued interest worldwide of traveling what is left of the original road. 
