@@ -2,9 +2,13 @@
 title: Route 66 Will Be 100 Years Old Soon, What sites are you going to see?
 ---
 NOTE: This blog was created as a part of a ‘Data Engineering’ course that I’m completing at work.
-Route 66 will celebrate 100 years in 2026 and it served a major role in the United States westward migration during the 20th century.  Coined “The Mother Road” in The Grapes of Wrath by John Steinbeck, the highway passed through 8 states starting in Chicago Illinois and ending near the Santa Monica Pier in Los Angeles, California.  Although the original Route 66 was decommissioned in 1985, as interstates were built pulling traffic from the Route, there is continued interest worldwide of traveling what is left of the original road.  
+
+Route 66 will celebrate 100 years in 2026 and it served a major role in the United States westward migration during the 20th century.  Coined “The Mother Road” in The Grapes of Wrath by John Steinbeck, the highway passed through 8 states starting in Chicago Illinois and ending near the Santa Monica Pier in Los Angeles, California.  Although the original Route 66 was decommissioned in 1985, as interstates were built pulling traffic from the Route, there is continued interest worldwide of traveling what is left of the original road. 
+
 I read the article “66 Best Attractions on Route 66 You Must Visit” from Road Affair’s website (https://www.roadaffair.com/best-route-66-attractions/) and wanted to use this data for my course work.  I have spent most of my vacations over the past 12 years traveling the Mother Road.  During my travels, I take the frontage road or the rough dirt road that was once the Route.  I avoid the interstate unless it replaced that section of Route 66.  I stop in the various businesses and talk to the wonderful owners.  All of them love their towns’ and are proud to be part of the original Route 66. 
+
 For my assignment, I was to come up with 3 questions of interest: 
+
 1.	I thought it would be interesting to categorize the attractions by type.  Was there a specific type of attractions that appeared most of the list.
 
 Question 1:  How many of each type of attractions made Road Affair’s list?
@@ -48,6 +52,7 @@ Oklahoma   	National Route 66 Museum
 
 Every state has at least one museum.  Surprisingly, Kansas has 2 museums on the list.
 
+
 3.	Since Route 66 will be 100 soon and knowing the heyday of the Route started shortly after many Americans were able to buy cars. (mid 1920s), that lead me to my final question.
 
 What attractions were built in each decade and count ones with no date? 
@@ -71,6 +76,7 @@ Decade	Number of Attraction Built
 No Year Listed	28
 
 The most attractions from the list were built from the 20’s through the 40’s.  But it was interesting to see that each decade since the 50’s additional attractions were added.  The list below are those attractions. Interesting to note that the last motel from the list was built in 1950.  Then out of the 13 attractions built since 1950, 4 of them have been restaurants.
+
 Year	Name	City	State	Type
 1950	Route 66 Hotel & Conference Center	Springfield	Illinois	Motel
 1953	Delgadillo's Snow Cap Drive-In	Seligman	Arizona	Restaurant
