@@ -1,57 +1,65 @@
-<header>
+README
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Motivation for the Project:  Route 66 with be 100 years old in 2026.  I was curious what websites were listing for must see sights.  Road Affair caught my eye, as it listed 66 attractions and had sites from all 8 states.  Many other websites would list a handful of locations.  Road Affair could be a site which people would read to see what attractions they should visit while traveling the Historic Route.
 
-# GitHub Pages
+Files in Repository: 
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+Bog Post Document: Route 66 Blog Post Document.docx 
+I don’t have time to learn HTML, so I posted my blog to github but the images in my file dropped off.  Please use my word document to vie Blog.
+Jupyter Notebook: Route 66 Final Code.ipynb 
+Used to pull data from the dataset
+Dataset: route66.csv
+	Dataset was pulled from Road Affairs website - https://www.roadaffair.com/best-route-66-attractions/
 
-</header>
+Summary of Results - My 3 questions were:
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+Question 1:  What types of attractions made Road Affair’s list?
 
-## Finish
+Percentage by Type:
+Site 	28.8%
+Museum	19.7%
+Restaurant  	16.7%
+Store   	9.1%
+Motel      	9.1%
+Gas Station  	4.5%
+Bridge    	3.0%
+Park  	3.0%
+Water Tower   	3.0%
+Art         	1.5%
+Theater      	1.5%
 
-_Congratulations friend, you've completed this course!_
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+Question 2: Does every state have a museum on the list?  Yes, all 8 states have at least 1 museum.
 
-Your blog is now live and has been deployed!
+State	Museum Name
+Arizona	Ash Fork Route 66 Museum
+California	Route 66 Mother Road Museum
+California   	California Route 66 Museum
+Illinois         	Route 66 Hall of Fame & Museum
+Kansas    	Galena Mining and Historical Museum
+Kansas  	Baxter Springs Heritage Center & Museum
+Missouri	Route 66 Car Museum
+New Mexico	New Mexico Route 66 Museum
+New Mexico	Route 66 Auto Museum
+Oklahoma   	Heart of Route 66 Auto Museum
+Oklahoma   	Oklahoma Route 66 Museum
+Oklahoma   	National Route 66 Museum
 
-Here's a recap of all the tasks you've accomplished in your repository:
+Question 3: What attractions were built in each decade and count ones with no date? 
 
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
 
-### What's next?
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+Decade	Number of Attraction Built
+1890 – 1899	1
+1900 – 1909	0
+1910 – 1919	2
+1920 – 1929	7
+1930 – 1939	8
+1940 – 1949	7
+1950 – 1959	2
+1960 – 1969	2
+1970 – 1979	2
+1980 – 1989	2
+1990 – 1999	2
+2000 - 2009	3
+2010 – 2019	0
+No Year Listed	28
