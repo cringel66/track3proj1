@@ -1,4 +1,4 @@
-README
+README - Sorry, I odn't have time to learn HTML to format this better.  Please view in edit mode to see the tables.
 
 Motivation for the Project:  Route 66 with be 100 years old in 2026.  I was curious what websites were listing for must see sights.  Road Affair caught my eye, as it listed 66 attractions and had sites from all 8 states.  Many other websites would list a handful of locations.  Road Affair could be a site which people would read to see what attractions they should visit while traveling the Historic Route.
 
