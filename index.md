@@ -1,8 +1,8 @@
----
+![image](https://github.com/cringel66/track3proj1/assets/127979127/328eddd1-7de8-41cd-bbb6-1df3586a0558)---
 title: Route 66 Will Be 100 Years Old Soon, What sites are you going to see?
 ---
-Please view Word Doc in my git hub for the correct looking format - Route 66 Blog Post Document.doc
-https://github.com/cringel66/track3proj1
+![image](https://github.com/cringel66/track3proj1/assets/127979127/b4862afa-d395-40c4-a7b9-b5de91db4fcd)
+
 
 NOTE: This blog was created as a part of a ‘Data Engineering’ course that I’m completing at work.
 
@@ -11,6 +11,7 @@ Route 66 will celebrate 100 years in 2026 and it served a major role in the Unit
 I read the article “66 Best Attractions on Route 66 You Must Visit” from Road Affair’s website (https://www.roadaffair.com/best-route-66-attractions/) and wanted to use this data for my course work.  I have spent most of my vacations over the past 12 years traveling the Mother Road.  During my travels, I take the frontage road or the rough dirt road that was once the Route.  I avoid the interstate unless it replaced that section of Route 66.  I stop in the various businesses and talk to the wonderful owners.  All of them love their towns’ and are proud to be part of the original Route 66. 
 
 For my assignment, I was to come up with 3 questions of interest: 
+
 
 I thought it would be interesting to categorize the attractions by type.  Was there a specific type of attractions that appeared most of the list.
 
@@ -25,12 +26,14 @@ It was interesting that the second largest category was museums.  Which lead me 
 Museums were at 19.7% of the entire list of 66 attractions.  I found that 13 attractions on the list were museums.  That then led me to my next questions.
 
 
+
 ## Questions 2.	Does every state have a museum on the list?  
 The number of miles through each state varied greatly with Kansas only having a short 13-mile section.  
 
 ![image](https://github.com/cringel66/track3proj1/assets/127979127/71e685fb-69d1-41fb-bbb0-0a6cf78efaf1)
 
 Every state has at least one museum.  Surprisingly, Kansas has 2 museums on the list.
+
 
 
 Since Route 66 will be 100 soon and knowing the heyday of the Route started shortly after many Americans were able to buy cars. (mid 1920s), that lead me to my final question.
@@ -46,5 +49,12 @@ The most attractions from the list were built from the 20’s through the 40’s
 
 ![image](https://github.com/cringel66/track3proj1/assets/127979127/cdff6e82-78b4-434d-ba92-fb92ca19dc54)
 
+
 To view images of each attraction on the list, go to Road affairs website.  Hope to see you on the Route.
 
+
+
+### Acknowledgment
+
+Main Blog Image: From Adobe stock photos - https://stock.adobe.com
+Dataset: From Road Affair - https://www.roadaffair.com/best-route-66-attractions/
