@@ -1,4 +1,4 @@
-![image](https://github.com/cringel66/track3proj1/assets/127979127/328eddd1-7de8-41cd-bbb6-1df3586a0558)---
+---
 title: Route 66 Will Be 100 Years Old Soon, What sites are you going to see?
 ---
 ![image](https://github.com/cringel66/track3proj1/assets/127979127/b4862afa-d395-40c4-a7b9-b5de91db4fcd)
