@@ -57,4 +57,5 @@ To view images of each attraction on the list, go to Road affairs website.  Hope
 ### Acknowledgment
 
 Main Blog Image: From Adobe stock photos - https://stock.adobe.com
+
 Dataset: From Road Affair - https://www.roadaffair.com/best-route-66-attractions/
