@@ -43,7 +43,7 @@ These museums are a great place to stop to get local information and history.  I
 
 Since Route 66 will be 100 soon and knowing the heyday of the Route started shortly after many Americans were able to buy cars. (mid 1920s), that lead me to my final question.
 
-## Question 3:  What attractions were built in each decade and count ones with no date? 
+## Question 3:  How many attractions were built in each decade? 
 
  ![image](https://github.com/cringel66/track3proj1/assets/127979127/388a7f94-c3f9-4299-9298-6e63b70bb0b6)
 
