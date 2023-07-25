@@ -25,6 +25,9 @@ My topic was about Route 66 as I spend my vacations traveling what is left of th
 ### Question 1:  What's the percentage of each type of attraction that made Road Affair’s list? 
 All the attractions are in one of the following catagories: Site, Museum, Restaurant, Store, Motel, Gas Station, Bridge, Park, Water Tower, Art, Theater.  With the majority of attractions being a site or museum or restaurant.
 
+![image](https://github.com/cringel66/track3proj1/assets/127979127/bf00f6d3-1440-4675-b751-2068a56d74de)
+
+
 
 ![image](https://github.com/cringel66/track3proj1/assets/127979127/6f1a3b75-7b35-4a22-9448-322e412af252)
 
