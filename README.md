@@ -33,7 +33,8 @@ All the attractions are in one of the following catagories: Site, Museum, Restau
 ### Question 2: Does every state have a museum on the list?  
 Yes, all 8 states have at least 1 museum.
 
-![image](https://github.com/cringel66/track3proj1/assets/127979127/305df440-b66f-40fc-8895-3dbf86fd2eee)
+![image](https://github.com/cringel66/track3proj1/assets/127979127/1b07a130-8975-4cd5-89eb-fc78fdd0d18c)
+
 
 
 
