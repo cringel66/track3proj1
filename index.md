@@ -15,7 +15,7 @@ For my assignment, I was to come up with 3 questions of interest:
 
 I thought it would be interesting to categorize the attractions by type.  Was there a specific type of attractions that appeared most of the list.
 
-## Question 1:  How many of each type of attractions made Road Affair’s list?
+## Question 1:  What's the percentage of each type of attraction that made Road Affair’s list?
 
  ![image](https://github.com/cringel66/track3proj1/assets/127979127/484108bc-9338-4782-841c-d20d645f4499)
 
