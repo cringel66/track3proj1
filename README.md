@@ -14,7 +14,13 @@ Route 66 with be 100 years old in 2026.  I was curious what websites were listin
  - Dataset: route66.csv
 	- Dataset was pulled from Road Affair website - https://www.roadaffair.com/best-route-66-attractions/
 
-## Summary of Results - My 3 questions were:
+## Summary of Results:
+ - Blog posting for this project can be found at https://cringel66.github.io/track3proj1/
+ - The assignment was to use a dataset of my choice, ask 3 intersting questions, using python gather data from the dataset, then visualize the data, and analyse the results. 
+
+My topic was about Route 66 as I spend my vacations traveling what is left of the old historic Route.  I'm always curious what authors or forums think the "best sites" are along the Route.  This Road Affair article caught my eye since it listed 66 attractions instead of the typical handful.  Route 66 will be 100 years old and they heyday of the Route would of been back in the mid 20th century.  So I was curious the type or site, if site were listed for all 8 states, and the age of the attractions.
+
+- My 3 questions were:
 
 ### Question 1:  What types of attractions made Road Affair’s list? 
 All the attractions are in one of the following catagories: Site, Museum, Restaurant, Store, Motel, Gas Station, Bridge, Park, Water Tower, Art, Theater.  With the majority of attractions being a site or museum or restaurant.
