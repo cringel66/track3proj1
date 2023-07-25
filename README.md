@@ -37,7 +37,7 @@ Yes, all 8 states have at least 1 museum.
 
 
 
-## Question 3: What attractions were built in each decade and count ones with no date? 
+### Question 3: What attractions were built in each decade and count ones with no date? 
 The oldest attraction was built in the 1890's, about 30 years before Route 66 became a highway.  It's important to note that 28 out of the 66 attractions did not list a year.  Those needed to be accounted but a year could not implied.  Therefore the number of attractions without a year was just counted and added to the table as no year.   
 
 ![image](https://github.com/cringel66/track3proj1/assets/127979127/71508b9f-cf2c-488a-8695-d371fa635272)
