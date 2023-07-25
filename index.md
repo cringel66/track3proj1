@@ -35,7 +35,9 @@ The number of miles through each state varied greatly with Kansas only having a 
 
 ![image](https://github.com/cringel66/track3proj1/assets/127979127/71e685fb-69d1-41fb-bbb0-0a6cf78efaf1)
 
-Every state has at least one museum.  Surprisingly, Kansas has 2 museums on the list.  Then it's surprise Illinois only has one listed when it has so many miles through the state and also that Abraham Lincoln was from Springlfield Illinios and there's so many attractions in that area for him.
+Every state has at least one museum.  Surprisingly, Kansas has 2 museums on the list.  Then it's surprise Illinois only has one listed when it has so many miles through the state and also that Abraham Lincoln was from Springlfield Illinios along Route 66 and there's so many attractions in that area for him.
+
+These museums are a great place to stop to get local information and history.  It makes seeing the 'sites' on the list that more interesting to stop for a picture.
 
 
 
@@ -50,13 +52,12 @@ The oldest attraction was built in the 1890's, about 30 years before Route 66 be
 ![image](https://github.com/cringel66/track3proj1/assets/127979127/3e46038d-7883-4f7c-9b6c-11c8c46970bf)
 
 
-The most attractions from the list were built from the 20’s through the 40’s.  But it was interesting to see that each decade since the 50’s additional attractions were added even into the 2000s which is 30+ years since route 66 was decommisioned. The list below are those attractions built since 1950.
+The most attractions from the list were built from the 20’s through the 40’s.  But it was interesting to see that each decade since the 50’s additional attractions were added even into the 2000s which is 30+ years since route 66 was decommisioned (June 1985). The list below are those attractions built since 1950.
 
 
 ![image](https://github.com/cringel66/track3proj1/assets/127979127/cdff6e82-78b4-434d-ba92-fb92ca19dc54)
 
-Interesting to note that the last motel from the list was built in 1950.  Then out of the 13 attractions built since 1950, 4 of them have been restaurants.
-
+Interesting to note that the last motel from the list was built in 1950.  From the 38 attractions with a year built, 13 of them were built in 1950 or later.  That's over a 1/3 of the attractions.  In those 13 attractions, 7 were sites.  It just shows that people continue to build new attractions to bring people to their business.  Let's keep Route 66 hopin. 
 
 To view images of each attraction on the list, go to Road affair's website.  
 
