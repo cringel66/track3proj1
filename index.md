@@ -30,7 +30,7 @@ Museums were at 19.7% of the entire list of 66 attractions.  I found that 13 att
 ## Questions 2.	Does every state have a museum on the list?  
 The number of miles through each state varied greatly with Kansas only having a short 13-mile section.  
 
-![image](https://github.com/cringel66/track3proj1/assets/127979127/4da44e4f-e25f-4417-b683-04b01a4f14ad)
+![image](https://github.com/cringel66/track3proj1/assets/127979127/8aa10541-ac29-4114-a131-b709a83cdfb4)
 
 
 ![image](https://github.com/cringel66/track3proj1/assets/127979127/71e685fb-69d1-41fb-bbb0-0a6cf78efaf1)
