@@ -19,7 +19,7 @@ I thought it would be interesting to categorize the attractions by type.  Was th
 
  ![image](https://github.com/cringel66/track3proj1/assets/127979127/484108bc-9338-4782-841c-d20d645f4499)
 
-It was interesting that the second largest category was museums.  I actually would of expected it to be restaurants or motels since there are so many of those along the Route.  I think wanted to determine the actual percentage of each category. 
+It was interesting that the second largest category was museums.  I actually would of expected it to be restaurants or motels since there are so many of those along the Route.  I then wanted to determine the actual percentage of each category. 
 
 ![image](https://github.com/cringel66/track3proj1/assets/127979127/18b9ef74-91a9-4062-be92-cffbe4175bad)
 
